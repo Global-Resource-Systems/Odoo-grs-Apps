@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    OpenERP, Open Source Management Solution
-#    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
+#    Global Resource Systems S.A.R.L.
 #
-#    This program is free software: you can redistribute it and/or modify
-#    it under the terms of the GNU Affero General Public License as
-#    published by the Free Software Foundation, either version 3 of the
-#    License, or (at your option) any later version.
+#    Copyright (C) 2021-TODAY Global Resource Systems(<https://www.grs.com>)
+#    Author: Global Resource Systems(<https://www.grs.com>)
+#
+#    You can modify it under the terms of the GNU LESSER
+#    GENERAL PUBLIC LICENSE (LGPL v3), Version 3.
 #
 #    This program is distributed in the hope that it will be useful,
 #    but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -37,6 +37,8 @@ You can have a more than one customer in one channel, you can also filter the cu
 'data': [ 'views/partner_view.xml',
           'views/sales_menu.xml',
           ],
+'license': 'LGPL-3',
+'images': ['static/img/banner.png'],
 'installable': True,
 'application': False,
 'auto_install': False,
