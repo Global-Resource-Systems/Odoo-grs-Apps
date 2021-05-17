@@ -1,4 +1,4 @@
-# Odoo-grs-Apps
+# Customer channel
 Allows you to add a channel per client.
 ==============================================================
 
