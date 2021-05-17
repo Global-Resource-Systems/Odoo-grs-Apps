@@ -28,7 +28,7 @@
 Allows you to add a channel per client.
 ==============================================================
 
-You can a multiple customer in one channel, you can also filter the customers by channel.
+You can have a more than one customer in one channel, you can also filter the customers by channel.
 """,
 'author': 'GRS - Hamza Larmoud',
 'website': '',
